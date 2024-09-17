@@ -31,8 +31,6 @@
 		{
 			"TestAds"           : false,
 			"NoAdsMode"         : true,
-
-			"WARNING" : "Gunakan key ADMOB, APPLOVIN, UNITY. Jika tidak maka ikan akan error",
 			"Banner":
 			{
 				"First"         : "ADMOB",
